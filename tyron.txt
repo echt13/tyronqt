@@ -1,0 +1,13 @@
+<div class "card">
+        <div class "card2">
+            <form class"form"
+            <img src="images/catiee.jpg" alt="Profile Image" class="profile-image">
+            <p id="heading" style="font-weight: bold;" Your so beautiful<3
+        </p>
+        <div class="btn">
+            <a href="thankyou.html" class="button1" style="font-size: 1cm;"font-weight: bold;">Yes</a>
+            <button class="button2" style="font-size: 1cm;"font-weight: bold;">No</button>
+        </div>
+    </form>
+    </div>
+</div>
